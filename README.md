@@ -9,4 +9,4 @@
 
 Intutively, word-2-vec model takes into account local structure of words in sentences and exploits this locality to trasform words into a numeric space where, sentimentally speaking, closely related words are close to each other. On the other hand, bag of words ignores this inherenet locality.
 
-The quantitative results shhow that on the same dataset word-2-vec model acheives better classification accuracy **boosting the AUC from 0.9 to 0.93**.
+The quantitative results show that on the same dataset word-2-vec model acheives better classification accuracy **boosting the AUC from 0.9 to 0.93**.
